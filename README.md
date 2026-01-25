@@ -7,8 +7,8 @@ A modern, interactive web application that brings the joy of cooking to your scr
 
 ## 🔗 Project Links
 
-[🚀 View Live Demo]( https://ziadshaaban1234.github.io/assignment8/)  
-[💻 View Repository](https://github.com/ziadshaaban1234/assignment8.git)
+[🚀 View Live Demo](https://ziadshaaban1234.github.io/What-s-For-Dinner/)  
+[💻 View Repository](https://github.com/ziadshaaban1234/What-s-For-Dinner.git)
 
 ---
 
